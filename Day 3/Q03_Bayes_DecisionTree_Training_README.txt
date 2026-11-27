@@ -1,0 +1,1 @@
+Use WEKA Explorer > Classify. Set class to buys_computer. Compare NaiveBayes and J48 (decision tree). For training/test evaluation choose Percentage split or supplied test set. The source says compare Bayes classification and decision tree using training and test data.

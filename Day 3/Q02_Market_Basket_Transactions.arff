@@ -1,0 +1,18 @@
+@relation market_basket
+@attribute Milk {yes,no}
+@attribute Beer {yes,no}
+@attribute Diapers {yes,no}
+@attribute Bread {yes,no}
+@attribute Butter {yes,no}
+@attribute Cookies {yes,no}
+@data
+yes,yes,yes,no,no,no
+no,no,no,yes,yes,no
+yes,no,yes,no,no,yes
+no,no,no,yes,yes,yes
+no,yes,no,no,no,yes
+yes,no,yes,yes,yes,no
+no,no,no,yes,no,no
+no,no,no,no,no,no
+no,yes,yes,no,no,no
+no,no,no,no,no,yes

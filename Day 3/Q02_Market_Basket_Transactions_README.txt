@@ -1,0 +1,1 @@
+WEKA association-rule input for the 10 visible transactions. In Explorer > Preprocess load this file, then Associate > Apriori (or FPGrowth). The original question asks support/confidence-related theoretical maxima too; these are not WEKA source-code tasks. Every item attribute is yes/no.

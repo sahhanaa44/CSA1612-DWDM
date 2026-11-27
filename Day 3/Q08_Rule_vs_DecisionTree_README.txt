@@ -1,0 +1,1 @@
+Use Q6 DecisionTree_Weather.arff. In WEKA Classify, run J48 and JRip (Rules) with the same class attribute and evaluation mode. Compare correctly classified instances, accuracy, confusion matrix and weighted F-measure. JRip is WEKA's rule-based classifier.

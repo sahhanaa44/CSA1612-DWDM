@@ -1,0 +1,1 @@
+WEKA input for the five letter-item transactions. Source specifies minimum support 50% (2 of 5) and confidence 80%. Load in Explorer > Associate; run Apriori and FPGrowth separately. The duplicate O in T5 is represented once because transactions are sets of items.

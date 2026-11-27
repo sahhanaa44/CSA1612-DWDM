@@ -1,0 +1,1 @@
+Load the ARFF in WEKA Explorer. Preprocess tab displays attributes and class distribution. In Classify, choose trees > J48 and then functions > Logistic. Set class attribute to play and compare results. This supplies the requested Tree / Preprocess / Logistic workflow.

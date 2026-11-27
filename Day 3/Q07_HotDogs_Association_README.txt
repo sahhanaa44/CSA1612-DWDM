@@ -1,0 +1,1 @@
+The source table contains six transactions: Hot Dogs/Buns/Ketchup; Hot Dogs/Buns; Hot Dogs/Coke/Chips; Coke/Chips; Chips/Ketchup; Hot Dogs/Coke/Chips. Use WEKA Associate > Apriori and FPGrowth. Minimum support 33.33% (2 of 6), confidence 60%. Compare accepted/rejected rules against both thresholds.

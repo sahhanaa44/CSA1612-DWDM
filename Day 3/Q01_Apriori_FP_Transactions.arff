@@ -1,0 +1,17 @@
+@relation customer_transactions
+@attribute item_a {yes,no}
+@attribute item_b {yes,no}
+@attribute item_c {yes,no}
+@attribute item_d {yes,no}
+@attribute item_e {yes,no}
+@data
+yes,yes,yes,no,no
+yes,yes,no,yes,no
+yes,yes,yes,yes,no
+yes,no,yes,yes,no
+no,yes,yes,no,no
+no,yes,no,yes,no
+yes,no,yes,no,yes
+yes,yes,yes,no,no
+no,yes,no,no,yes
+no,yes,yes,no,no
