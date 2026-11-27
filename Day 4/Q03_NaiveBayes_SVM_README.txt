@@ -1,0 +1,1 @@
+Load ARFF in WEKA > Classify. Set class attribute to class. Run bayes > NaiveBayes and functions > SMO (SVM) using the same evaluation method. Record accuracy, confusion matrix and F-measure from each output; plot the accuracies in a spreadsheet or chart tool.

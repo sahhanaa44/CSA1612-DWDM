@@ -1,0 +1,11 @@
+@relation height_weight_gender
+@attribute height_gt_180 {yes,no}
+@attribute weight_gt_80 {yes,no}
+@attribute gender {Male,Female}
+@data
+yes,no,Male
+no,yes,Male
+no,no,Female
+no,yes,Male
+yes,yes,Male
+no,no,Female

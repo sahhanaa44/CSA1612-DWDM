@@ -1,0 +1,1 @@
+Load in WEKA > Associate. Run Apriori and FPGrowth separately. Source thresholds: minimum support count 2 and confidence 50%. Compare the generated rules and identify rules that occur in only one algorithm's output.

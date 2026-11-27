@@ -1,0 +1,1 @@
+Load the CSV in WEKA. In Cluster tab choose SimpleKMeans, vary numClusters (for example 2, 3 and 4), click Start, then Visualize cluster assignments. EmployeeID may be ignored; convert Gender to nominal if needed.

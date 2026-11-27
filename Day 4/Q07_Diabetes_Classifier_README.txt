@@ -1,0 +1,1 @@
+This is a small sample ARFF so the WEKA workflow can be tested immediately; for meaningful results, replace/extend it with the full diabetes.csv dataset. In Classify set class=outcome, run trees > J48 and functions > SMO. Compare accuracy, F1 and confusion matrix. WEKA reports precision/recall/F-measure; F1 = 2*precision*recall/(precision+recall).

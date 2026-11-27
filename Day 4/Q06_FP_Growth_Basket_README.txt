@@ -1,0 +1,1 @@
+WEKA Associate > FPGrowth (install package if missing). Dataset represents the five transactions shown in the source. Set minimum support 50% and confidence 75%. Apriori may also be run for comparison if required.
