@@ -1,0 +1,5 @@
+README.txt
+WEKA_Files/Q01_Apriori_FP_Transactions_10.arff
+WEKA_Files/Q01_Apriori_FP_Transactions_10_README.txt
+WEKA_Files/Q02_Apriori_Transactions_5.arff
+WEKA_Files/Q02_Apriori_Transactions_5_README.txt
