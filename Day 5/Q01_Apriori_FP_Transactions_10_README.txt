@@ -1,0 +1,1 @@
+Assignment 5, first transaction table. Open in WEKA Explorer > Preprocess, then Associate > Apriori and FPGrowth. Use minimum support count 2 and confidence 80% (10 transactions => 20% support). Compare rules. The ARFF uses one yes/no attribute per item.

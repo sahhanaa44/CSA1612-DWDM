@@ -1,0 +1,1 @@
+Assignment 5, second table. Run WEKA Apriori with minimum support count 2 and confidence 80%. The table contains item sets from TID 100–500. Duplicate letters, if any, are represented once because an itemset contains unique items.

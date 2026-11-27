@@ -1,0 +1,20 @@
+@relation assignment5_second_transactions
+@attribute a {yes,no}
+@attribute b {yes,no}
+@attribute c {yes,no}
+@attribute e {yes,no}
+@attribute f {yes,no}
+@attribute g {yes,no}
+@attribute i {yes,no}
+@attribute l {yes,no}
+@attribute m {yes,no}
+@attribute n {yes,no}
+@attribute o {yes,no}
+@attribute p {yes,no}
+@attribute s {yes,no}
+@data
+yes,no,yes,no,yes,yes,yes,no,yes,no,no,yes,no
+yes,yes,yes,no,yes,no,no,yes,yes,no,yes,no,no
+no,yes,no,no,yes,no,no,no,no,yes,yes,no,no
+no,yes,yes,no,no,no,no,no,no,no,no,yes,yes
+yes,no,yes,yes,yes,no,no,yes,yes,yes,no,yes,no

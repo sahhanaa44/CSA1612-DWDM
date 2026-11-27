@@ -1,0 +1,17 @@
+@relation assignment5_transactions
+@attribute a {yes,no}
+@attribute b {yes,no}
+@attribute c {yes,no}
+@attribute d {yes,no}
+@attribute e {yes,no}
+@data
+yes,yes,no,no,no
+no,yes,no,yes,no
+yes,no,yes,yes,yes
+yes,no,no,yes,yes
+yes,yes,yes,no,no
+yes,yes,yes,yes,no
+yes,no,no,no,no
+yes,yes,yes,no,no
+yes,yes,no,yes,no
+no,yes,yes,no,yes
